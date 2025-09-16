@@ -4,8 +4,8 @@
 #include <WiFiClientSecure.h>
 
 // Replace with your bot token and chat ID
-#define BOT_TOKEN "7604340362:AAFFaHruSKBldH1bbvyS-1XGURs8gmM0zh8"
-#define CHAT_ID "7447817105"
+#define BOT_TOKEN ""
+#define CHAT_ID ""
 
 // ===================
 // Select camera model
